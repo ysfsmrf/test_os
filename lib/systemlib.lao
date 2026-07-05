@@ -1,1 +1,8 @@
-
+isgame=false
+program_id=guid
+guid=22282224616151222112128
+name=system
+extension=lao
+is_using_lib=false
+is_lib=true
+is_adminastor=true
