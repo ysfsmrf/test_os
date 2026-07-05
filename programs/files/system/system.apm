@@ -1,0 +1,8 @@
+isgame=false
+program_id=guid
+guid=22282224616202118821116
+name=system
+extension=sp
+is_using_lib=true
+which_lib=systemlib.lao
+is_adminastor=true
