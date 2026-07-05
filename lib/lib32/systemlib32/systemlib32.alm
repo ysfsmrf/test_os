@@ -6,3 +6,4 @@ extension=lao
 is_using_lib=false
 is_lib=true
 is_adminastor=true
+how_many_bit=32
